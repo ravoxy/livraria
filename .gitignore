@@ -1,0 +1,16 @@
+*.swp
+*.log
+*.DS_Store
+*.marko.js
+*.history/
+.cache/
+.nyc_output
+node_modules
+snapshots
+coverage
+dist
+actual.*
+*.actual.*
+*-actual.*
+.vscode
+package-lock.json
